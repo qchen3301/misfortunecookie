@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React or else spurdo-face <br/> The sun never shines in c y b e r s p a s e
         </a>
       </header>
     </div>
