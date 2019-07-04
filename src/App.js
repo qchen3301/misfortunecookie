@@ -1,14 +1,15 @@
 import React from 'react';
 import logo from './logo.svg';
+import rbmk from './rbmk.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={rbmk} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Scramble <code>&lt;your brain&gt;</code> and save to reload.
         </p>
         <a
           className="App-link"
@@ -16,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React or else spurdo-face <br/> The sun never shines in c y b e r s p a s e
+          The sun never shines in C Y B E R S P A S E
         </a>
       </header>
     </div>
